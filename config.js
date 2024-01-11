@@ -11,17 +11,17 @@ global.antitags = true;
 
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
-global.autoRecord = false;                //auto recording by default off.
+global.autoRecord = true;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["917560920774"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["917560920774"];     //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["917560920774"];  
-global.OwnerName = "KHADHER";
-global.BotName = "ELLIE";
+global.Owner = ["94785274495"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["94785274495"];     //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["94785274495"];  
+global.OwnerName = "CYBER DEXTER";
+global.BotName = "DEXTER MD";
 global.packname = "ELLIE";                             //Do not change.
 global.author = "By: KHADHER";                               //Do not change.
 global.BotSourceCode = "https://github.com/khadherinc/ELLIE"; //Do not change.
